@@ -1,4 +1,3 @@
 
-it's dark, ...my poor English!
-I change this file at 16:00 11/11.
-there is nothing.
+Git is a version control system.
+Git is free software.
