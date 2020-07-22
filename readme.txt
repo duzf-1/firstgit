@@ -1,4 +1,4 @@
-use --no-ff disable fast forward mode.
+Use --no-ff disable fast forward mode.
 Git is a distributed version control system.
 Git is free software distributed under the GPL. 
 Git has a mutable index called stage.
